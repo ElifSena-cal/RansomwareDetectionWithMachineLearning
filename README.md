@@ -1,6 +1,3 @@
-Teşekkürler! Repo linkini inceledim. Şimdi sana uygun bir README dosyası hazırlayacağım. İşte önerilen README içeriği:
-
----
 
 # Ransomware Detection with Machine Learning
 
